@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/creativeblogs",
+    "prod_uri": "mysql://root:@localhost/creativeblogs",
+    "fb_url": "https://facebook.com/creativeAnectodes",
+    "tw_url": "https://twitter.com/creativeAnectodes",
+    "gh_url": "https://github.com/creativeAnectodes",
+    "blog_name": "Creative Anectodes",
+    "tag_line": "Blogs for creative people",
+    "gmail-user": "harishharry655@gmail.com",
+    "gmail-password": "7760733992",
+    "about_text": "Hi, this harish and I create and post my learning articles",
+    "num_of_posts": 5,
+    "login_image": "login_image",
+    "admin_user": "harish",
+    "admin_password": "harish77607",
+    "upload_location": "C:\\Users\\Harish B\\Desktop\\Flask tutorials\\first app\\static"
+  }
+}
